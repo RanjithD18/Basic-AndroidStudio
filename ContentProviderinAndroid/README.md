@@ -35,7 +35,7 @@ Registeration Number : 212221240044
 */
 ```
 ### MainActivity.java:
-```
+~~~
 package com.example.contentprov;
 
 import androidx.annotation.Nullable;
@@ -116,9 +116,10 @@ public class MainActivity extends AppCompatActivity {
 ~~~
 
 ## OUTPUT
-!()[https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/Screenshot%20(57).png]
+
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/Screenshot%20(57).png)
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/Screenshot%20(58).png)
-!()[https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/image.png]
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/image.png)
 
 
 
