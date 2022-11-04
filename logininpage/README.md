@@ -189,7 +189,6 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/logininpage/Screenshot%20(9).png)
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/logininpage/Screenshot%20(10).png)
-![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/logininpage/image.png)
 <img src="https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/logininpage/image.png" width="300" height="600">
 
 ## RESULT
