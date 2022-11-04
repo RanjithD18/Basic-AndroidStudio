@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to display login page.
-Developed by:
-Registeration Number :
+Developed by:Ranjith D
+Registeration Number :21221240044
 */
 ```
 ### MainActivity.java:
@@ -187,7 +187,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ~~~
 ## OUTPUT
-
+![]()
 
 
 
