@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “calculator operation”.
-Developed by:
-Registeration Number :
+Developed by:Ranjith D
+Registeration Number :212221240044
 */
 ```
 ### MainActivity.java:
@@ -267,9 +267,9 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ~~~
 ## OUTPUT
-
-
-
-
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/calculator/Screenshot%20(15).png)
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/calculator/Screenshot%20(13).png)
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/calculator/Screenshot%20(14).png)
+<img src="https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/calculator/image.png" width="300" height="600">
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
