@@ -92,8 +92,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ~~~
 ## OUTPUT
-
-
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/searchengine/Screenshot%20(7).png)
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/searchengine/Screenshot%20(8).png)
+![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/searchengine/image.png)
 
 
 ## RESULT
