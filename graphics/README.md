@@ -325,7 +325,7 @@ public class Pyramid {
 ![](https://github.com/manojvenaram/Basic-AndroidStudio/blob/main/graphics/1.png)
 ![](https://github.com/manojvenaram/Basic-AndroidStudio/blob/main/graphics/2.png)
 ![](https://github.com/manojvenaram/Basic-AndroidStudio/blob/main/graphics/4.png)
-https://github.com/manojvenaram/Basic-AndroidStudio/blob/main/graphics/5.png
+<img src="https://github.com/manojvenaram/Basic-AndroidStudio/blob/main/graphics/5.png" width="300" height="600">
 
 
 
