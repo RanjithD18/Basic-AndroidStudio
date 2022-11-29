@@ -92,8 +92,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot%20(59).png)
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot%20(60).png)
-![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot_2022-09-25-21-38-00-568_com.example.intent.jpg)
-![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot_2022-09-25-21-38-42-088_com.android.mms.jpg)
+<img src="https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot_2022-09-25-21-38-00-568_com.example.intent.jpg" width="300" height="600">
+<img src="https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/sendsmsusingintent/Screenshot_2022-09-25-21-38-42-088_com.android.mms.jpg" width="300" height="600">
 
 
 ## RESULT
