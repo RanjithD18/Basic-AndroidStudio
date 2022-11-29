@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/Screenshot%20(57).png)
 ![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/Screenshot%20(58).png)
-![](https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/image.png)
+<img src="https://github.com/RanjithD18/Basic-AndroidStudio/blob/main/ContentProviderinAndroid/image.png" width="300" height="600">
 
 
 
